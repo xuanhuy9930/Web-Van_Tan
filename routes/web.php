@@ -1,7 +1,7 @@
 <?php
 
 Route::get('/', function () {
-    return view('master-layout');
+    return view('page.trangchu');
 });
 Route::get('trangchu', function () {
     return view('page.trangchu');
