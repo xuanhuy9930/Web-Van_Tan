@@ -14,6 +14,7 @@
 								  Chiều: 14h00 - 15h30</span>
 				<h3>Mùa hè: <span>Sáng:7h30 - 12:00h <br>
 								  Chiều: 13h00 - 17h30</span>
+				</h3>
 			</div>
 		</div>
 	</div>

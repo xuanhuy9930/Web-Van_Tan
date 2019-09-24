@@ -6,16 +6,16 @@
 			</div>
 
 			<div class="tim-kiem col-md-4">
-				<input type="text" placeholder=" Tìm kiếm..." class="ip-tim">
+				<input type="text" placeholder=" Bạn cần in gì nào ?" class="ip-tim">
 				<i class="fa fa-search search"></i>
 			</div>
 			<div class="hot-line col-md-4">
 				<ul>
-					<li><i class="fa fa-user-plus"></i></li>
-					<li><p>
+					<li><i class="fa fa-user" aria-hidden="true"></i></i></li>
+					<li><p style="text-shadow: 1px 1px 4px #fff;font-weight: bold;">
 						HotLine <br> 0988 910 564
 					</p></li>
-					<li><input type="text" placeholder="cần tìm"></li>
+					<li><a href="#" type="button" title="" class="btn btn-default guide-items">Hướng dẫn đặt hàng</a></li>
 				</ul>
 				<span class="menu-rsp container text-right" style="font-size:30px;cursor:pointer;" onclick="openNav()">&#9776;
 				</span>
@@ -31,9 +31,9 @@
 				<i class="fa fa-search search ic1"></i>
 				<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 				<a class="list-menu-rsp" href="#">Trang Chủ</a>
-				<a class="list-menu-rsp" href="#">In Ấn</a>
-				<a class="list-menu-rsp" href="#">Quảng Cáo</a>
-				<a class="list-menu-rsp" href="#">Lĩnh Vực Mở Rộng</a>			
+				<a class="list-menu-rsp" href="#">In ấn</a>
+				<a class="list-menu-rsp" href="#">Quảng cáo</a>
+				<a class="list-menu-rsp" href="#">Lĩnh vực mở rộng</a>			
 				
 			</div>
 		</div>
@@ -42,9 +42,9 @@
 		<div class="list-menu container">
 			<ul>
 				<li><a href="">Trang chủ</a></li>
-				<li><a href="">In Ấn</a></li>
+				<li><a href="">In ấn</a></li>
 				<li><a href="">Quảng cáo</a></li>
-				<li><a href="">Lĩnh Vực Mở Rộng</a></li>
+				<li><a href="">Lĩnh vực mở rộng</a></li>
 			</ul>
 		</div>
 		</div>
