@@ -15,7 +15,7 @@
 					<li><p>
 						HotLine <br> 0988 910 564
 					</p></li>
-					<li><input type="text" placeholder="cần tìm"></li>
+					<li><input type="text" placeholder="Cần tìm"></li>
 				</ul>
 				<span class="menu-rsp container text-right" style="font-size:30px;cursor:pointer;" onclick="openNav()">&#9776;
 				</span>
@@ -32,7 +32,7 @@
 				<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 				<a class="list-menu-rsp" href="#">Trang Chủ</a>
 				<a class="list-menu-rsp" href="#">In Ấn</a>
-				<a class="list-menu-rsp" href="#">Quảng Cáo</a>
+				<a class="list-menu-rsp" href="quangcao.blade.php">Quảng Cáo</a>
 				<a class="list-menu-rsp" href="#">Lĩnh Vực Mở Rộng</a>			
 				
 			</div>

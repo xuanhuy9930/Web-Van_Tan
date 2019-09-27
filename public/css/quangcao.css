@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+.thanh-bar{
+    background-color:#e9ecef;
+}
+.ad_danhmuc{
+    margin:0px 2px 10px 3px;
+    padding:12px 0px 10px 0px;
+    font-size:14px;
+}
+.ad_danhmuc1{
+    color:#FFFFFF;
+    text-transform:uppercase; 
+    font-weight:600; 
+    font-size:14px; 
+    background:#0163ae; 
+    padding:8px 12px 8px 12px;
+}
+.ad_danhmuc2{
+    text-transform: none;
+    color: #0163ae;
+    font-weight: 500;
+
+}
+@media (min-width: 320px) and (max-width: 410px){
+	.ad_danhmuc
+	{
+		display: none;
+    }
+}
+.ad_title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    text-align: left;
+    font-size:28px;
+    text-transform: uppercase;
+}
+.ad_subtitle{
+    font-family: Arial,Helvetica,sans-serif;
+    font-weight: 200;
+    text-align: left;
+    font-size: 18px;
+}
+.ad_name{
+    font-family: 'Roboto', sans-serif;
+    font-weight:900;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.ad_img{
+    padding: 10px;
+    transition: 1.5s;
+}
+.ad_img:hover{
+   transform: rotate3d(1,10,1, 70deg);
+}
