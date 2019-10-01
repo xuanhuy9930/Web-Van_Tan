@@ -5,17 +5,17 @@ Trang chủ
 @section('content')
 <div class="container">
 	<div class="row">
-		<div class="col-md-3 list-title">
+		<div class="col-md-3 list-title wow bounceInLeft">
 			<h2 class="title-menu">Tìm Kiếm Phổ Biến</h2>
 			<ul>
 				<li><a href=""><i class="fa fa-arrow-right"></i> Những thông tin thường gặp</a></li>
-				<li><a href=""><i class="fa fa-arrow-right"></i> Những thông tin thường gặp</a></li>
-				<li><a href=""><i class="fa fa-arrow-right"></i> Những thông tin thường gặp</a></li>
-				<li><a href=""><i class="fa fa-arrow-right"></i> Những thông tin thường gặp</a></li>
-				<li><a href=""><i class="fa fa-arrow-right"></i> Những thông tin thường gặp</a></li>
-				<li><a href=""><i class="fa fa-arrow-right"></i> Những thông tin thường gặp</a></li>
-				<li><a href=""><i class="fa fa-arrow-right"></i> Những thông tin thường gặp</a></li>
-				<li><a href=""><i class="fa fa-arrow-right"></i> Những thông tin thường gặp</a></li>
+				<li><a href=""><i class="fa fa-arrow-right"></i> Tôi muốn in giấy tờ</a></li>
+				<li><a href=""><i class="fa fa-arrow-right"></i> Giá in là bao nhiêu ?</a></li>
+				<li><a href=""><i class="fa fa-arrow-right"></i> Địa chỉ cửa hàng ở đâu ?</a></li>
+				<li><a href=""><i class="fa fa-arrow-right"></i> Thông tin sản phẩm</a></li>
+				<li><a href=""><i class="fa fa-arrow-right"></i> Nguyên vật liệu chuẩn</a></li>
+				<li><a href=""><i class="fa fa-arrow-right"></i> Thời gian nhanh miễn phí</a></li>
+				<li><a href=""><i class="fa fa-arrow-right"></i> Thiết kế chuyên nghiệp</a></li>
 			</ul>
 		</div>
 		<div class="col-md-9">
@@ -25,7 +25,7 @@ Trang chủ
 					<img src="images/slider2.jpg" alt="">
 					<img src="images/slider3.jpg" alt="">
 				</div>	
-				<div class="col-md-4 title-slider">
+				<div class="col-md-4 title-slider wow bounceInRight">
 					<h2>Những câu nói truyền động lực</h2>
 					<div class="text-img row">
 						
@@ -81,7 +81,7 @@ Trang chủ
 					<div class="text-right"><a href="">Xem Thêm >></a></div>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider1.jpg" alt="">
+					<img src="images/item-5.jpg" alt="">
 					<div class="sp-finish container text-center">
 						Đã Hoàn Thành
 					</div>
@@ -105,7 +105,7 @@ Trang chủ
 					<h4>Đặc biệt tất cả các sản phẩm sẽ được cắt bế theo mọi hình dáng khách hàng yêu cầu</h4>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider1.jpg" alt="">
+					<img src="images/item-2.jpg" alt="">
 					<div class="sp-finish container text-center">
 						Đã Hoàn Thành
 					</div>
@@ -125,7 +125,7 @@ Trang chủ
 					<div class="text-right"><a href="">Xem Thêm >></a></div>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider1.jpg" alt="">
+					<img src="images/item-1.jpg" alt="">
 					<div class="sp-finish container text-center">
 						Đã Hoàn Thành
 					</div>
@@ -147,7 +147,7 @@ Trang chủ
 					<div class="text-right"><a href="">Xem Thêm >></a></div>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider1.jpg" alt="">
+					<img src="images/item-2.jpg" alt="">
 					<div class="sp-finish container text-center">
 						Đã Hoàn Thành
 					</div>
@@ -166,7 +166,7 @@ Trang chủ
 					<div class="text-right"><a href="">Xem Thêm >></a></div>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider1.jpg" alt="">
+					<img src="images/item-3.jpg" alt="">
 					<div class="sp-finish container text-center">
 						Đã Hoàn Thành
 					</div>
@@ -204,7 +204,7 @@ Trang chủ
 					<div class="text-right"><a href="">Xem Thêm >></a></div>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider1.jpg" alt="">
+					<img src="images/item-4.jpg" alt="">
 					<div class="sp-finish container text-center">
 						Đã Hoàn Thành
 					</div>
@@ -225,7 +225,7 @@ Trang chủ
 					<div class="text-right"><a href="">Xem Thêm >></a></div>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider1.jpg" alt="">
+					<img src="images/item-5.jpg" alt="">
 					<div class="sp-finish container text-center">
 						Đã Hoàn Thành
 					</div>
@@ -263,7 +263,7 @@ Trang chủ
 					<div class="text-right"><a href="">Xem Thêm >></a></div>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider1.jpg" alt="">
+					<img src="images/slider3.jpg" alt="">
 					<div class="sp-finish container text-center">
 						Đã Hoàn Thành
 					</div>
@@ -283,7 +283,7 @@ Trang chủ
 					<div class="text-right"><a href="">Xem Thêm >></a></div>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider1.jpg" alt="">
+					<img src="images/item-1.jpg" alt="">
 					<div class="sp-finish container text-center">
 						Đã Hoàn Thành
 					</div>
@@ -305,7 +305,7 @@ Trang chủ
 					<div class="text-right"><a href="">Xem Thêm >></a></div>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider1.jpg" alt="">
+					<img src="images/item-2.jpg" alt="">
 					<div class="sp-finish container text-center">
 						Đã Hoàn Thành
 					</div>
@@ -329,7 +329,7 @@ Trang chủ
 					<div class="text-right"><a href="">Xem Thêm >></a></div>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider3.jpg" alt="">
+					<img src="images/item-3.jpg" alt="">
 					
 				</div>
 				<div class="space"></div>
@@ -340,7 +340,7 @@ Trang chủ
 					<div class="text-right"><a href="">Xem Thêm >></a></div>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider3.jpg" alt="">
+					<img src="images/item-4.jpg" alt="">
 					
 				</div>
 				
@@ -362,7 +362,7 @@ Trang chủ
 					<div class="text-right"><a href="">Xem Thêm >></a></div>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider3.jpg" alt="">
+					<img src="images/item-5.jpg" alt="">
 					
 				</div>
 				
@@ -390,7 +390,7 @@ Trang chủ
 					<div class="text-right"><a href="">Xem Thêm >></a></div>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider3.jpg" alt="">
+					<img src="images/slider1.jpg" alt="">
 					
 				</div>
 				
@@ -406,7 +406,7 @@ Trang chủ
 					<div class="text-right"><a href="">Xem Thêm >></a></div>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider3.jpg" alt="">
+					<img src="images/item-1.jpg" alt="">
 					
 				</div>
 				
@@ -430,7 +430,7 @@ Trang chủ
 					<div class="text-right"><a href="">Xem Thêm >></a></div>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider3.jpg" alt="">
+					<img src="images/item-2.jpg" alt="">
 					
 				</div>
 				
@@ -446,7 +446,7 @@ Trang chủ
 					<div class="text-right"><a href="">Xem Thêm >></a></div>
 				</div>
 				<div class="col-md-5 img-qc">
-					<img src="images/slider3.jpg" alt="">
+					<img src="images/item-3.jpg" alt="">
 					
 				</div>
 				
@@ -459,31 +459,40 @@ Trang chủ
 	<div class="sa container"></div>
 	<div class="row cam-ket">
 		<div class="col-md-3">
-			<div class="dollar">
-				<i class="fa fa-usd"></i>
-				<span>Giá Thành Hợp Lý</span>
+			<div class="dollar wow bounce" data-wow-iteration="2" data-wow-duration="1.5s">
+				<i class="fa fa-usd"></i> 
+
 			</div>
-			<div class="dollar">
+			<p>Giá Thành Hợp Lý</p>			
+			<div class="dollar wow wobble" data-wow-iteration="2" data-wow-duration="1.5s">
 				<i class="fa fa-pencil-square-o"></i>
-				<span>Thiết Kế Chuyên Nghiệp</span>
+				
 			</div>
+			<p>Thiết Kế Chuyên Nghiệp</p>
 		</div>
 		<div class="col-md-6 text-camket">
-			<p>&emsp;&emsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit. A optio veniam et sint dolorem enim facilis nemo eos quibusdam. Perspiciatis officia asperiores officiis voluptatem sunt nemo, delectus quam quaerat ipsum.
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum atque, debitis eveniet autem dolore assumenda suscipit, incidunt! Suscipit, incidunt necessitatibus deleniti totam voluptas eligendi accusamus corporis, illo ducimus nobis ab?
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis tempora, doloribus illo incidunt, quidem minima libero beatae eum facilis quis aliquam quaerat sint aspernatur aperiam nam accusantium aut placeat eveniet.</p>
-			<span>&emsp;&emsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus dolore, provident ratione ipsam eveniet quia alias rerum beatae </span>
+			<p>&emsp;&emsp;Chúng tôi bảo đảm các sản phẩm được sản xuất trên dây chuyền công nghệ tiên tiến nhất và đều được kiểm tra thực nghiệm trước khi xuất xưởng để tránh các sự cố đáng tiếc có thể xảy ra, nhằm mang đến cho Quý khách hàng sản phẩm chất lượng tốt nhất và đáng tin cậy nhất..</p>
+			<span>&emsp;&emsp;Nếu quý khách hàng phát hiện hàng giả ngay sau khi nhận hàng, hãy thông báo ngay cho chúng tôi. Chúng tôi cam kết hoàn tiền 100% giá trị sản phẩm quý khách đã mua để thể hiện chí và khả năng cung cấp hàng chất lượng của mình.</span>
 		</div>
 		<div class="col-md-3">
-			<div class="dollar">
+			<div class="dollar wow wobble" data-wow-iteration="2" data-wow-duration="1.5s">
 				<i class="fa fa-cogs"></i>
-				<span>Nguyên Vật Liệu Chuẩn Theo Báo Giá</span>
+				
 			</div>
-			<div class="dollar">
+			<p>Nguyên Vật Liệu Chuẩn Theo Báo Giá</p>
+			<div class="dollar wow bounce" data-wow-iteration="2" data-wow-duration="1.5s">
 				<i class="fa fa-clock-o"></i>
-				<span>Thời Gian Nhanh Miễn phí Với</span>
+				
 			</div>
+			<p>Thời Gian Nhanh Miễn phí Với</p>
 		</div>
 	</div>
 </div>
+@endsection
+
+
+@section('js')
+	<script>
+		new WOW().init();
+	</script>
 @endsection

@@ -3005,6 +3005,7 @@
         },
         {
             "name": "facade/ignition",
+<<<<<<< HEAD
             "version": "1.9.0",
             "source": {
                 "type": "git",
@@ -3015,6 +3016,31 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/facade/ignition/zipball/40461a1f680171876c186dfff419b2a4c892995c",
                 "reference": "40461a1f680171876c186dfff419b2a4c892995c",
+=======
+<<<<<<< HEAD
+            "version": "1.9.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/facade/ignition.git",
+                "reference": "40461a1f680171876c186dfff419b2a4c892995c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/facade/ignition/zipball/40461a1f680171876c186dfff419b2a4c892995c",
+                "reference": "40461a1f680171876c186dfff419b2a4c892995c",
+=======
+            "version": "1.8.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/facade/ignition.git",
+                "reference": "4ff9397a24da58b35382802e2d22325b640123ea"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/facade/ignition/zipball/4ff9397a24da58b35382802e2d22325b640123ea",
+                "reference": "4ff9397a24da58b35382802e2d22325b640123ea",
+>>>>>>> 08907dfc6950c3a2a39b544854b319289fd33975
+>>>>>>> 9e5d2147c0aed06d18c4c4781e5daf369b07efd6
                 "shasum": ""
             },
             "require": {
@@ -3072,7 +3098,15 @@
                 "laravel",
                 "page"
             ],
+<<<<<<< HEAD
             "time": "2019-09-27T16:49:08+00:00"
+=======
+<<<<<<< HEAD
+            "time": "2019-09-27T16:49:08+00:00"
+=======
+            "time": "2019-09-20T09:37:06+00:00"
+>>>>>>> 08907dfc6950c3a2a39b544854b319289fd33975
+>>>>>>> 9e5d2147c0aed06d18c4c4781e5daf369b07efd6
         },
         {
             "name": "facade/ignition-contracts",
