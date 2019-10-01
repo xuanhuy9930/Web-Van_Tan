@@ -14,11 +14,11 @@
     <link rel="stylesheet" type="text/css" href="libs/slick-1.8.1/slick/slick.css">
     <link rel="stylesheet" type="text/css" href="libs/slick-1.8.1/slick/slick-theme.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
+    <link rel='stylesheet' href="https://cdn.rawgit.com/daneden/animate.css/v3.1.0/animate.min.css">
     
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/header.css">
-    
-
+    <link rel="stylesheet" href="css/quangcao.css">
     <!-- CSS libs -->
     @yield('css')
     <!-- JS libs --> 
@@ -33,6 +33,9 @@
     @include('footer')
 </body>
     <!-- JS libs -->
+   
+<script src='https://cdn.rawgit.com/matthieua/WOW/1.0.1/dist/wow.min.js'></script>
+<script> new WOW().init(); </script>
     <script type="text/javascript" src="libs/slick-1.8.1/slick/slick.min.js"></script>
     <script type="text/javascript" src="libs/OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>
     <!-- JS libs -->
