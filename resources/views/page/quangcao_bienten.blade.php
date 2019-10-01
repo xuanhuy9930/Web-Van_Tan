@@ -31,7 +31,7 @@ Quảng cáo
 
 <div class="wow">
     <div data-wow-delay="1s" class="wow rollIn">
-<div style="background:url(img/r.png) no-repeat right"><a href="#" class="ad_danhmuc2">Ảnh siêu nét khổ lớn</a></div></div></div>
+<div style="background:url(img/r.png) no-repeat right"><a href="http://127.0.0.1:8000/quangcao_anhsieunet" class="ad_danhmuc2">Ảnh siêu nét khổ lớn</a></div></div></div>
 
 <div style="background:#d2d2d2; height:1px;width:60%; margin:10px 0px 10px 0px"></div>
 
@@ -40,7 +40,7 @@ Quảng cáo
 
     <div class="wow">
     <div data-wow-delay="1.5s" class="wow rollIn">
-<div style="background:url(img/r.png) no-repeat right"><a href="#" class="ad_danhmuc2">Biển bạt, bangzon,...</a></div></div></div>
+<div style="background:url(img/r.png) no-repeat right"><a href="http://127.0.0.1:8000/quangcao_bienbat" class="ad_danhmuc2">Biển bạt, bangzon,...</a></div></div></div>
 
 <div style="background:#d2d2d2; height:1px;width:60%; margin:10px 0px 10px 0px"></div>
 
@@ -49,7 +49,7 @@ Quảng cáo
 
     <div class="wow">
     <div data-wow-delay="2s" class="wow rollIn">
-<div style="background:url(img/r.png) no-repeat right"><a href="#" class="ad_danhmuc2">Biển led</a></div></div></div>
+<div style="background:url(img/r.png) no-repeat right"><a href="http://127.0.0.1:8000/quangcao_bienled" class="ad_danhmuc2">Biển led</a></div></div></div>
 
 <div style="background:#d2d2d2; height:1px;width:60%; margin:10px 0px 10px 0px"></div>
 
@@ -58,7 +58,7 @@ Quảng cáo
 
     <div class="wow">
     <div data-wow-delay="2.5s" class="wow rollIn">
-<div style="background:url(img/r.png) no-repeat right"><a href="#" class="ad_danhmuc2">Biển quảng cáo alu </a></div></div></div>
+<div style="background:url(img/r.png) no-repeat right"><a href="http://127.0.0.1:8000/quangcao_alu" class="ad_danhmuc2">Biển quảng cáo alu </a></div></div></div>
 
 <div style="background:#d2d2d2; height:1px;width:60%; margin:10px 0px 10px 0px"></div>
 
@@ -66,7 +66,7 @@ Quảng cáo
     <div style="height:10px"></div>
     <div class="wow">
     <div data-wow-delay="3s" class="wow rollIn">
-    <div style="background:url(img/r.png) no-repeat right"><a href="#" class="ad_danhmuc2">Gian hàng trải nghiệm </a></div></div></div>
+    <div style="background:url(img/r.png) no-repeat right"><a href="http://127.0.0.1:8000/quangcao_gianhang" class="ad_danhmuc2">Gian hàng trải nghiệm </a></div></div></div>
 
 <div style="background:#d2d2d2; height:1px;width:60%; margin:10px 0px 10px 0px"></div>
 
@@ -74,7 +74,7 @@ Quảng cáo
     <div style="height:10px"></div>
     <div class="wow">
     <div data-wow-delay="3.5s" class="wow rollIn">
-    <div style="background:url(img/r.png) no-repeat right"><a href="#" class="ad_danhmuc2">Biển báo giao thông</a></div></div></div>
+    <div style="background:url(img/r.png) no-repeat right"><a href="http://127.0.0.1:8000/quangcao_bienbao" class="ad_danhmuc2">Biển báo giao thông</a></div></div></div>
 
 <div style="background:#d2d2d2; height:1px;width:60%; margin:10px 0px 10px 0px"></div>
 
@@ -82,7 +82,7 @@ Quảng cáo
     <div style="height:10px"></div>
     <div class="wow">
     <div data-wow-delay="3.5s" class="wow rollIn">
-    <div style="background:url(img/r.png) no-repeat right"><a href="#" class="ad_danhmuc2">Trang trí ánh sáng nhà hàng</a></div></div></div>
+    <div style="background:url(img/r.png) no-repeat right"><a href="http://127.0.0.1:8000/quangcao_anhsang" class="ad_danhmuc2">Trang trí ánh sáng nhà hàng</a></div></div></div>
 
 <div style="background:#d2d2d2; height:1px;width:60%; margin:10px 0px 10px 0px"></div>
 
@@ -90,7 +90,7 @@ Quảng cáo
     <div style="height:10px"></div>
     <div class="wow">
     <div data-wow-delay="4s" class="wow rollIn">
-    <div style="background:url(img/r.png) no-repeat right"><a href="#" class="ad_danhmuc2">Biển tên công ty </a></div></div></div>
+    <div style="background:url(img/r.png) no-repeat right"><a href="http://127.0.0.1:8000/quangcao_bienten" class="ad_danhmuc2">Biển tên công ty </a></div></div></div>
 
 <div style="background:#d2d2d2; height:1px;width:60%; margin:10px 0px 10px 0px"></div>
 
@@ -98,7 +98,7 @@ Quảng cáo
     <div style="height:10px"></div>
     <div class="wow">
     <div data-wow-delay="4.5s" class="wow rollIn">
-    <div style="background:url(img/r.png) no-repeat right"><a href="#" class="ad_danhmuc2">In , cắt dán decan ôtô</a></div></div></div>
+    <div style="background:url(img/r.png) no-repeat right"><a href="http://127.0.0.1:8000/quangcao_decan" class="ad_danhmuc2">In , cắt dán decan ôtô</a></div></div></div>
 
 <div style="background:#d2d2d2; height:1px;width:60%; margin:10px 0px 10px 0px"></div>
 
@@ -107,11 +107,6 @@ Quảng cáo
 
 	</div>
 </div>
-  <div class="col-12 col-sm-6 col-md-8">
-  <div class="wow">
-    <div data-wow-delay="0.5s" class="wow slideInLeft">
-  <h4 class="ad_title" style="padding-bottom:35px;">Biển tên công ty - Biển phòng</h4>
-</div></div>
 <div class="wow">
     <div data-wow-delay="1s" class="wow slideInRight">
   <h5 class="ad_subtitle">Biển tên Công ty là 1 trong những loại biển quảng cáo thông dụng nhất được chia thành 4 nhóm chính:</h5></div></div>
