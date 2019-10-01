@@ -6,3 +6,6 @@ Route::get('/', function () {
 Route::get('trangchu', function () {
     return view('page.trangchu');
 });
+Route::get('inan', function () {
+    return view('pageinan.inan');
+});
