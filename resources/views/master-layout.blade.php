@@ -17,6 +17,8 @@
     
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/header.css">
+    
+
     <!-- CSS libs -->
     @yield('css')
     <!-- JS libs --> 
