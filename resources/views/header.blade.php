@@ -15,11 +15,9 @@
 					<li><p style="text-shadow: 1px 1px 4px #fff;font-weight: bold;">
 						HotLine <br> 0988 910 564
 					</p></li>
-<<<<<<< HEAD
 					<li><input type="text" placeholder="Cần tìm"></li>
-=======
 					<li><a href="#" type="button" title="" class="btn btn-default guide-items">Hướng dẫn đặt hàng</a></li>
->>>>>>> 08907dfc6950c3a2a39b544854b319289fd33975
+					<li><a href="#" type="button" title="" class="btn btn-default guide-items">Hướng dẫn đặt hàng</a></li>
 				</ul>
 				<span class="menu-rsp container text-right" style="font-size:30px;cursor:pointer;" onclick="openNav()">&#9776;
 				</span>
@@ -35,16 +33,15 @@
 				<i class="fa fa-search search ic1"></i>
 				<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 				<a class="list-menu-rsp" href="#">Trang Chủ</a>
-<<<<<<< HEAD
 				<a class="list-menu-rsp" href="#">In Ấn</a>
 				<a class="list-menu-rsp" href="quangcao.blade.php">Quảng Cáo</a>
 				<a class="list-menu-rsp" href="#">Lĩnh Vực Mở Rộng</a>			
-=======
 				<a class="list-menu-rsp" href="#">In ấn</a>
 				<a class="list-menu-rsp" href="#">Quảng cáo</a>
-				<a class="list-menu-rsp" href="#">Lĩnh vực mở rộng</a>			
->>>>>>> 08907dfc6950c3a2a39b544854b319289fd33975
-				
+				<a class="list-menu-rsp" href="#">Lĩnh vực mở rộng</a>	
+				<a class="list-menu-rsp" href="#">In ấn</a>
+				<a class="list-menu-rsp" href="#">Quảng cáo</a>
+				<a class="list-menu-rsp" href="#">Lĩnh vực mở rộng</a>	
 			</div>
 		</div>
 		</div>

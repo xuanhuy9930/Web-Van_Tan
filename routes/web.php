@@ -36,3 +36,9 @@ Route::get('quangcao_bienten', function () {
 Route::get('quangcao_decan', function () {
     return view('page.quangcao_decan');
 });
+Route::get('inan', function () {
+    return view('pageinan.inan');
+});
+Route::get('tuvan', function () {
+    return view('vu.tuvan');
+});
